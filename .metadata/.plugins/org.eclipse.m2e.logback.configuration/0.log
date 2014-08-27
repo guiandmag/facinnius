@@ -1,0 +1,698 @@
+2014-08-26 21:37:01,419 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2014-08-26 21:37:01,475 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2014-08-26 21:37:01,477 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2014-08-26 22:16:38,846 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.facinnius:facinnius:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-build/pom.xml.
+2014-08-26 22:16:40,270 [Worker-14] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:16:43,017 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/jboss-javaee-7.0/3.0.0.Final-redhat-1/jboss-javaee-7.0-3.0.0.Final-redhat-1.pom
+2014-08-26 22:16:43,032 [Worker-14] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:16:43,766 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/spec/jboss-javaee-7.0/3.0.0.Final-redhat-1/jboss-javaee-7.0-3.0.0.Final-redhat-1.pom
+2014-08-26 22:16:43,769 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.spec:jboss-javaee-7.0:pom:3.0.0.Final-redhat-1 is missing, no dependency information available
+2014-08-26 22:16:46,146 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-model:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-model/pom.xml.
+2014-08-26 22:16:46,149 [Worker-14] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:16:46,581 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2014-08-26 22:16:46,588 [Worker-14] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:16:46,895 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2014-08-26 22:16:46,899 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2014-08-26 22:16:47,106 [Worker-14] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:16:47,596 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2014-08-26 22:16:47,601 [Worker-14] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:16:47,895 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2014-08-26 22:16:47,901 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2014-08-26 22:16:49,056 [Worker-14] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:16:49,458 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2014-08-26 22:16:49,465 [Worker-14] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:16:49,765 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2014-08-26 22:16:49,922 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2014-08-26 22:16:50,516 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 22:16:50,578 [Worker-14] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:16:51,007 [New I/O client worker #9-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/antlr/antlr/2.7.6/antlr-2.7.6.jar
+2014-08-26 22:16:51,010 [New I/O client worker #9-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/transaction/jta/1.1/jta-1.1.jar
+2014-08-26 22:16:51,239 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/hibernate/hibernate-core/3.5.6-Final/hibernate-core-3.5.6-Final.jar
+2014-08-26 22:16:51,449 [New I/O client worker #9-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/commons-collections/commons-collections/3.1/commons-collections-3.1.jar
+2014-08-26 22:16:51,459 [Worker-14] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:16:51,769 [New I/O client worker #10-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/antlr/antlr/2.7.6/antlr-2.7.6.jar
+2014-08-26 22:16:51,776 [New I/O client worker #10-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/transaction/jta/1.1/jta-1.1.jar
+2014-08-26 22:16:51,787 [New I/O client worker #10-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.1/commons-collections-3.1.jar
+2014-08-26 22:16:51,798 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/3.5.6-Final/hibernate-core-3.5.6-Final.jar
+2014-08-26 22:16:51,927 [New I/O client worker #10-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/transaction/jta/1.1/jta-1.1.jar
+2014-08-26 22:16:53,098 [New I/O client worker #10-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/antlr/antlr/2.7.6/antlr-2.7.6.jar
+2014-08-26 22:16:53,747 [New I/O client worker #10-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.1/commons-collections-3.1.jar
+2014-08-26 22:16:55,769 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/3.5.6-Final/hibernate-core-3.5.6-Final.jar
+2014-08-26 22:16:57,088 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2014-08-26 22:17:00,015 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-model/src/main/java
+2014-08-26 22:17:00,016 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /facinnius-model/src/main/resources
+2014-08-26 22:17:00,016 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-model/src/test/java
+2014-08-26 22:17:00,231 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.facinnius:facinnius:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-build/pom.xml.
+2014-08-26 22:17:00,234 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.spec:jboss-javaee-7.0:pom:3.0.0.Final-redhat-1 is missing, no dependency information available
+2014-08-26 22:17:00,388 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-model:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-model/pom.xml.
+2014-08-26 22:17:00,538 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 22:17:00,638 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-model:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-model/pom.xml.
+2014-08-26 22:17:00,751 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.spec:jboss-javaee-7.0:pom:3.0.0.Final-redhat-1 is missing, no dependency information available
+2014-08-26 22:17:01,303 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 22:17:01,345 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.spec:jboss-javaee-7.0:pom:3.0.0.Final-redhat-1 is missing, no dependency information available
+2014-08-26 22:17:03,722 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-web/src/main/java
+2014-08-26 22:17:03,722 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /facinnius-web/src/main/resources
+2014-08-26 22:17:03,723 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-web/src/test/java
+2014-08-26 22:17:04,381 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 33 sec
+2014-08-26 22:17:06,686 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:17:06,690 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:17:06,739 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:17:06,739 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:17:07,145 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 22:17:07,188 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.spec:jboss-javaee-7.0:pom:3.0.0.Final-redhat-1 is missing, no dependency information available
+2014-08-26 22:17:07,444 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:17:07,447 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:17:07,449 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:17:07,449 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:17:07,467 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-08-26 22:17:07,467 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-08-26 22:17:51,665 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.facinnius:facinnius:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-build/pom.xml.
+2014-08-26 22:17:51,667 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.spec:jboss-javaee-7.0:pom:3.0.0.Final-redhat-1 is missing, no dependency information available
+2014-08-26 22:17:51,755 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-model:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-model/pom.xml.
+2014-08-26 22:17:51,886 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 22:17:52,034 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:17:52,034 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:17:52,036 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:17:52,036 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:18:36,238 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:18:36,240 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:18:36,253 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:18:36,253 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:19:06,183 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-08-26 22:19:06,333 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.facinnius:facinnius:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-build/pom.xml.
+2014-08-26 22:19:06,334 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.spec:jboss-javaee-7.0:pom:3.0.0.Final-redhat-1 is missing, no dependency information available
+2014-08-26 22:19:06,391 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-model:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-model/pom.xml.
+2014-08-26 22:19:06,511 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 22:19:06,625 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-model/src/main/java
+2014-08-26 22:19:06,625 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /facinnius-model/src/main/resources
+2014-08-26 22:19:06,625 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-model/src/test/java
+2014-08-26 22:19:06,684 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-web/src/main/java
+2014-08-26 22:19:06,684 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /facinnius-web/src/main/resources
+2014-08-26 22:19:06,685 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-web/src/test/java
+2014-08-26 22:19:06,889 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for facinnius-web
+2014-08-26 22:19:06,891 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-08-26 22:19:07,803 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-model:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-model/pom.xml.
+2014-08-26 22:19:07,900 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.spec:jboss-javaee-7.0:pom:3.0.0.Final-redhat-1 is missing, no dependency information available
+2014-08-26 22:19:07,995 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:19:07,996 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:19:07,998 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:19:07,998 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:19:08,072 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 22:19:08,132 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.spec:jboss-javaee-7.0:pom:3.0.0.Final-redhat-1 is missing, no dependency information available
+2014-08-26 22:20:01,320 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.facinnius:facinnius:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-build/pom.xml.
+2014-08-26 22:20:01,361 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:01,463 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/jboss-javaee-6.0/3.0.0.Final-redhat-1/jboss-javaee-6.0-3.0.0.Final-redhat-1.pom
+2014-08-26 22:20:01,473 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/jboss-javaee-6.0/3.0.0.Final-redhat-1/jboss-javaee-6.0-3.0.0.Final-redhat-1.pom
+2014-08-26 22:20:01,541 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:01,610 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/jboss-parent/8-redhat-1/jboss-parent-8-redhat-1.pom
+2014-08-26 22:20:01,638 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/jboss-parent/8-redhat-1/jboss-parent-8-redhat-1.pom
+2014-08-26 22:20:01,764 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:01,841 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/component/management/jboss-component-version-master/6.0.0-redhat-1/jboss-component-version-master-6.0.0-redhat-1.pom
+2014-08-26 22:20:01,864 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/component/management/jboss-component-version-master/6.0.0-redhat-1/jboss-component-version-master-6.0.0-redhat-1.pom
+2014-08-26 22:20:01,945 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:02,035 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/javax/activation/activation/1.1.1-redhat-1/activation-1.1.1-redhat-1.pom
+2014-08-26 22:20:02,036 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/activation/activation/1.1.1-redhat-1/activation-1.1.1-redhat-1.pom
+2014-08-26 22:20:02,144 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:02,219 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/component/management/jboss-dependency-management-all/6.0.0-redhat-1/jboss-dependency-management-all-6.0.0-redhat-1.pom
+2014-08-26 22:20:02,220 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/component/management/jboss-dependency-management-all/6.0.0-redhat-1/jboss-dependency-management-all-6.0.0-redhat-1.pom
+2014-08-26 22:20:02,287 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:02,353 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/component/management/jboss-dependency-management-build/6.0.0-redhat-1/jboss-dependency-management-build-6.0.0-redhat-1.pom
+2014-08-26 22:20:02,438 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/component/management/jboss-dependency-management-build/6.0.0-redhat-1/jboss-dependency-management-build-6.0.0-redhat-1.pom
+2014-08-26 22:20:02,514 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:02,594 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/component/management/jboss-dependency-management-eap/6.0.0-redhat-1/jboss-dependency-management-eap-6.0.0-redhat-1.pom
+2014-08-26 22:20:02,652 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/component/management/jboss-dependency-management-eap/6.0.0-redhat-1/jboss-dependency-management-eap-6.0.0-redhat-1.pom
+2014-08-26 22:20:02,744 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:02,836 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/component/management/jboss-project-dependency-relocations/6.0.0-redhat-1/jboss-project-dependency-relocations-6.0.0-redhat-1.pom
+2014-08-26 22:20:02,837 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/component/management/jboss-project-dependency-relocations/6.0.0-redhat-1/jboss-project-dependency-relocations-6.0.0-redhat-1.pom
+2014-08-26 22:20:02,938 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:03,019 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/javax/enterprise/cdi-api/1.0-SP4-redhat-1/cdi-api-1.0-SP4-redhat-1.pom
+2014-08-26 22:20:03,020 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/enterprise/cdi-api/1.0-SP4-redhat-1/cdi-api-1.0-SP4-redhat-1.pom
+2014-08-26 22:20:03,830 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:03,901 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/weld/weld-parent/17-redhat-1/weld-parent-17-redhat-1.pom
+2014-08-26 22:20:03,912 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/weld/weld-parent/17-redhat-1/weld-parent-17-redhat-1.pom
+2014-08-26 22:20:04,000 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:04,084 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.1.Final-redhat-1/jboss-interceptors-api_1.1_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:04,085 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.1.Final-redhat-1/jboss-interceptors-api_1.1_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:04,552 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:04,638 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/annotation/jboss-annotations-api_1.1_spec/1.0.1.Final-redhat-1/jboss-annotations-api_1.1_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:04,639 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/annotation/jboss-annotations-api_1.1_spec/1.0.1.Final-redhat-1/jboss-annotations-api_1.1_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:04,743 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:04,814 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/javax/inject/javax.inject/1-redhat-1/javax.inject-1-redhat-1.pom
+2014-08-26 22:20:04,817 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/inject/javax.inject/1-redhat-1/javax.inject-1-redhat-1.pom
+2014-08-26 22:20:05,159 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:05,221 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/javax/jws/jsr181-api/1.0-MR1-redhat-1/jsr181-api-1.0-MR1-redhat-1.pom
+2014-08-26 22:20:05,222 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/jws/jsr181-api/1.0-MR1-redhat-1/jsr181-api-1.0-MR1-redhat-1.pom
+2014-08-26 22:20:05,325 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:05,419 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/javax/mail/mail/1.4.4-redhat-1/mail-1.4.4-redhat-1.pom
+2014-08-26 22:20:05,420 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/mail/mail/1.4.4-redhat-1/mail-1.4.4-redhat-1.pom
+2014-08-26 22:20:05,694 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:05,842 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/com/sun/mail/all/1.4.4-redhat-1/all-1.4.4-redhat-1.pom
+2014-08-26 22:20:05,856 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/com/sun/mail/all/1.4.4-redhat-1/all-1.4.4-redhat-1.pom
+2014-08-26 22:20:05,975 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:06,043 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/javax/validation/validation-api/1.0.0.GA-redhat-1/validation-api-1.0.0.GA-redhat-1.pom
+2014-08-26 22:20:06,044 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/validation/validation-api/1.0.0.GA-redhat-1/validation-api-1.0.0.GA-redhat-1.pom
+2014-08-26 22:20:06,128 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:06,193 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final-redhat-1/hibernate-jpa-2.0-api-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:06,196 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final-redhat-1/hibernate-jpa-2.0-api-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:06,284 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:06,359 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/ejb/jboss-ejb-api_3.1_spec/1.0.2.Final-redhat-1/jboss-ejb-api_3.1_spec-1.0.2.Final-redhat-1.pom
+2014-08-26 22:20:06,360 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/ejb/jboss-ejb-api_3.1_spec/1.0.2.Final-redhat-1/jboss-ejb-api_3.1_spec-1.0.2.Final-redhat-1.pom
+2014-08-26 22:20:06,459 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:06,561 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/el/jboss-el-api_2.2_spec/1.0.1.Final-redhat-1/jboss-el-api_2.2_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:06,562 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/el/jboss-el-api_2.2_spec/1.0.1.Final-redhat-1/jboss-el-api_2.2_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:06,681 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:06,762 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/enterprise/deploy/jboss-jad-api_1.2_spec/1.0.1.Final-redhat-1/jboss-jad-api_1.2_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:06,762 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/enterprise/deploy/jboss-jad-api_1.2_spec/1.0.1.Final-redhat-1/jboss-jad-api_1.2_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:07,083 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:07,149 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/faces/jboss-jsf-api_2.1_spec/2.0.2.Final-redhat-1/jboss-jsf-api_2.1_spec-2.0.2.Final-redhat-1.pom
+2014-08-26 22:20:07,150 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/faces/jboss-jsf-api_2.1_spec/2.0.2.Final-redhat-1/jboss-jsf-api_2.1_spec-2.0.2.Final-redhat-1.pom
+2014-08-26 22:20:07,245 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:07,339 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/management/j2ee/jboss-j2eemgmt-api_1.1_spec/1.0.1.Final-redhat-1/jboss-j2eemgmt-api_1.1_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:07,340 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/management/j2ee/jboss-j2eemgmt-api_1.1_spec/1.0.1.Final-redhat-1/jboss-j2eemgmt-api_1.1_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:07,630 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:07,729 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/resource/jboss-connector-api_1.6_spec/1.0.1.Final-redhat-1/jboss-connector-api_1.6_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:07,731 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/resource/jboss-connector-api_1.6_spec/1.0.1.Final-redhat-1/jboss-connector-api_1.6_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:07,840 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:07,904 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/security/jacc/jboss-jacc-api_1.4_spec/1.0.2.Final-redhat-1/jboss-jacc-api_1.4_spec-1.0.2.Final-redhat-1.pom
+2014-08-26 22:20:07,905 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/security/jacc/jboss-jacc-api_1.4_spec/1.0.2.Final-redhat-1/jboss-jacc-api_1.4_spec-1.0.2.Final-redhat-1.pom
+2014-08-26 22:20:08,056 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:08,123 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/servlet/jboss-servlet-api_3.0_spec/1.0.1.Final-redhat-1/jboss-servlet-api_3.0_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:08,124 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/servlet/jboss-servlet-api_3.0_spec/1.0.1.Final-redhat-1/jboss-servlet-api_3.0_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:08,233 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:08,312 [New I/O client worker #37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/security/auth/message/jboss-jaspi-api_1.0_spec/1.0.1.Final-redhat-1/jboss-jaspi-api_1.0_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:08,313 [New I/O client worker #37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/security/auth/message/jboss-jaspi-api_1.0_spec/1.0.1.Final-redhat-1/jboss-jaspi-api_1.0_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:08,410 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:08,511 [New I/O client worker #38-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/registry/jboss-jaxr-api_1.0_spec/1.0.2.Final-redhat-1/jboss-jaxr-api_1.0_spec-1.0.2.Final-redhat-1.pom
+2014-08-26 22:20:08,511 [New I/O client worker #38-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/registry/jboss-jaxr-api_1.0_spec/1.0.2.Final-redhat-1/jboss-jaxr-api_1.0_spec-1.0.2.Final-redhat-1.pom
+2014-08-26 22:20:08,825 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:08,892 [New I/O client worker #39-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/jms/jboss-jms-api_1.1_spec/1.0.1.Final-redhat-1/jboss-jms-api_1.1_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:08,893 [New I/O client worker #39-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/jms/jboss-jms-api_1.1_spec/1.0.1.Final-redhat-1/jboss-jms-api_1.1_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:08,981 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:09,057 [New I/O client worker #40-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/servlet/jsp/jboss-jsp-api_2.2_spec/1.0.1.Final-redhat-1/jboss-jsp-api_2.2_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:09,058 [New I/O client worker #40-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/servlet/jsp/jboss-jsp-api_2.2_spec/1.0.1.Final-redhat-1/jboss-jsp-api_2.2_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:09,396 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:09,474 [New I/O client worker #41-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/servlet/jstl/jboss-jstl-api_1.2_spec/1.0.3.Final-redhat-1/jboss-jstl-api_1.2_spec-1.0.3.Final-redhat-1.pom
+2014-08-26 22:20:09,475 [New I/O client worker #41-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/servlet/jstl/jboss-jstl-api_1.2_spec/1.0.3.Final-redhat-1/jboss-jstl-api_1.2_spec-1.0.3.Final-redhat-1.pom
+2014-08-26 22:20:09,577 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:09,750 [New I/O client worker #42-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/xalan/xalan/2.7.1-redhat-1/xalan-2.7.1-redhat-1.pom
+2014-08-26 22:20:09,751 [New I/O client worker #42-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/xalan/xalan/2.7.1-redhat-1/xalan-2.7.1-redhat-1.pom
+2014-08-26 22:20:10,062 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:10,143 [New I/O client worker #43-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/xalan/serializer/2.7.1-redhat-1/serializer-2.7.1-redhat-1.pom
+2014-08-26 22:20:10,144 [New I/O client worker #43-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/xalan/serializer/2.7.1-redhat-1/serializer-2.7.1-redhat-1.pom
+2014-08-26 22:20:10,248 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:10,317 [New I/O client worker #44-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.1.Final-redhat-1/jboss-transaction-api_1.1_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:10,318 [New I/O client worker #44-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.1.Final-redhat-1/jboss-transaction-api_1.1_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:10,600 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:10,680 [New I/O client worker #45-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_1.1_spec/1.0.1.Final-redhat-1/jboss-jaxrs-api_1.1_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:10,681 [New I/O client worker #45-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_1.1_spec/1.0.1.Final-redhat-1/jboss-jaxrs-api_1.1_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:10,766 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:10,898 [New I/O client worker #46-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/bind/jboss-jaxb-api_2.2_spec/1.0.4.Final-redhat-1/jboss-jaxb-api_2.2_spec-1.0.4.Final-redhat-1.pom
+2014-08-26 22:20:10,899 [New I/O client worker #46-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/bind/jboss-jaxb-api_2.2_spec/1.0.4.Final-redhat-1/jboss-jaxb-api_2.2_spec-1.0.4.Final-redhat-1.pom
+2014-08-26 22:20:11,249 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:11,325 [New I/O client worker #47-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/rpc/jboss-jaxrpc-api_1.1_spec/1.0.1.Final-redhat-1/jboss-jaxrpc-api_1.1_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:11,326 [New I/O client worker #47-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/rpc/jboss-jaxrpc-api_1.1_spec/1.0.1.Final-redhat-1/jboss-jaxrpc-api_1.1_spec-1.0.1.Final-redhat-1.pom
+2014-08-26 22:20:11,446 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:11,515 [New I/O client worker #48-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/soap/jboss-saaj-api_1.3_spec/1.0.2.Final-redhat-1/jboss-saaj-api_1.3_spec-1.0.2.Final-redhat-1.pom
+2014-08-26 22:20:11,515 [New I/O client worker #48-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/soap/jboss-saaj-api_1.3_spec/1.0.2.Final-redhat-1/jboss-saaj-api_1.3_spec-1.0.2.Final-redhat-1.pom
+2014-08-26 22:20:11,796 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:11,878 [New I/O client worker #49-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/ws/jboss-jaxws-api_2.2_spec/2.0.1.Final-redhat-1/jboss-jaxws-api_2.2_spec-2.0.1.Final-redhat-1.pom
+2014-08-26 22:20:11,879 [New I/O client worker #49-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/ws/jboss-jaxws-api_2.2_spec/2.0.1.Final-redhat-1/jboss-jaxws-api_2.2_spec-2.0.1.Final-redhat-1.pom
+2014-08-26 22:20:12,000 [Worker-23] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:20:12,082 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/javax/enterprise/cdi-api/1.0-SP4-redhat-1/cdi-api-1.0-SP4-redhat-1.jar
+2014-08-26 22:20:12,083 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/javax/validation/validation-api/1.0.0.GA-redhat-1/validation-api-1.0.0.GA-redhat-1.jar
+2014-08-26 22:20:12,095 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/javax/jws/jsr181-api/1.0-MR1-redhat-1/jsr181-api-1.0-MR1-redhat-1.jar
+2014-08-26 22:20:12,096 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/jws/jsr181-api/1.0-MR1-redhat-1/jsr181-api-1.0-MR1-redhat-1.jar
+2014-08-26 22:20:12,097 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/javax/mail/mail/1.4.4-redhat-1/mail-1.4.4-redhat-1.jar
+2014-08-26 22:20:12,115 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/ejb/jboss-ejb-api_3.1_spec/1.0.2.Final-redhat-1/jboss-ejb-api_3.1_spec-1.0.2.Final-redhat-1.jar
+2014-08-26 22:20:12,152 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/annotation/jboss-annotations-api_1.1_spec/1.0.1.Final-redhat-1/jboss-annotations-api_1.1_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,178 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/faces/jboss-jsf-api_2.1_spec/2.0.2.Final-redhat-1/jboss-jsf-api_2.1_spec-2.0.2.Final-redhat-1.jar
+2014-08-26 22:20:12,192 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final-redhat-1/hibernate-jpa-2.0-api-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,196 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/registry/jboss-jaxr-api_1.0_spec/1.0.2.Final-redhat-1/jboss-jaxr-api_1.0_spec-1.0.2.Final-redhat-1.jar
+2014-08-26 22:20:12,198 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/servlet/jsp/jboss-jsp-api_2.2_spec/1.0.1.Final-redhat-1/jboss-jsp-api_2.2_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,208 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/security/jacc/jboss-jacc-api_1.4_spec/1.0.2.Final-redhat-1/jboss-jacc-api_1.4_spec-1.0.2.Final-redhat-1.jar
+2014-08-26 22:20:12,221 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/jms/jboss-jms-api_1.1_spec/1.0.1.Final-redhat-1/jboss-jms-api_1.1_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,250 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.1.Final-redhat-1/jboss-transaction-api_1.1_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,255 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/xalan/serializer/2.7.1-redhat-1/serializer-2.7.1-redhat-1.jar
+2014-08-26 22:20:12,267 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/management/j2ee/jboss-j2eemgmt-api_1.1_spec/1.0.1.Final-redhat-1/jboss-j2eemgmt-api_1.1_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,277 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/bind/jboss-jaxb-api_2.2_spec/1.0.4.Final-redhat-1/jboss-jaxb-api_2.2_spec-1.0.4.Final-redhat-1.jar
+2014-08-26 22:20:12,293 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/servlet/jstl/jboss-jstl-api_1.2_spec/1.0.3.Final-redhat-1/jboss-jstl-api_1.2_spec-1.0.3.Final-redhat-1.jar
+2014-08-26 22:20:12,304 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_1.1_spec/1.0.1.Final-redhat-1/jboss-jaxrs-api_1.1_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,331 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/servlet/jboss-servlet-api_3.0_spec/1.0.1.Final-redhat-1/jboss-servlet-api_3.0_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,335 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/rpc/jboss-jaxrpc-api_1.1_spec/1.0.1.Final-redhat-1/jboss-jaxrpc-api_1.1_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,363 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/javax/activation/activation/1.1.1-redhat-1/activation-1.1.1-redhat-1.jar
+2014-08-26 22:20:12,396 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.1.Final-redhat-1/jboss-interceptors-api_1.1_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,514 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/el/jboss-el-api_2.2_spec/1.0.1.Final-redhat-1/jboss-el-api_2.2_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,534 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/enterprise/deploy/jboss-jad-api_1.2_spec/1.0.1.Final-redhat-1/jboss-jad-api_1.2_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,538 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_1.1_spec/1.0.1.Final-redhat-1/jboss-jaxrs-api_1.1_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,558 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/javax/inject/javax.inject/1-redhat-1/javax.inject-1-redhat-1.jar
+2014-08-26 22:20:12,559 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/inject/javax.inject/1-redhat-1/javax.inject-1-redhat-1.jar
+2014-08-26 22:20:12,580 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/security/auth/message/jboss-jaspi-api_1.0_spec/1.0.1.Final-redhat-1/jboss-jaspi-api_1.0_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,602 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/xalan/xalan/2.7.1-redhat-1/xalan-2.7.1-redhat-1.jar
+2014-08-26 22:20:12,610 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/management/j2ee/jboss-j2eemgmt-api_1.1_spec/1.0.1.Final-redhat-1/jboss-j2eemgmt-api_1.1_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,620 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/jms/jboss-jms-api_1.1_spec/1.0.1.Final-redhat-1/jboss-jms-api_1.1_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,624 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/ejb/jboss-ejb-api_3.1_spec/1.0.2.Final-redhat-1/jboss-ejb-api_3.1_spec-1.0.2.Final-redhat-1.jar
+2014-08-26 22:20:12,665 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/annotation/jboss-annotations-api_1.1_spec/1.0.1.Final-redhat-1/jboss-annotations-api_1.1_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,665 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/resource/jboss-connector-api_1.6_spec/1.0.1.Final-redhat-1/jboss-connector-api_1.6_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,676 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/rpc/jboss-jaxrpc-api_1.1_spec/1.0.1.Final-redhat-1/jboss-jaxrpc-api_1.1_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,699 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/servlet/jsp/jboss-jsp-api_2.2_spec/1.0.1.Final-redhat-1/jboss-jsp-api_2.2_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,728 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/soap/jboss-saaj-api_1.3_spec/1.0.2.Final-redhat-1/jboss-saaj-api_1.3_spec-1.0.2.Final-redhat-1.jar
+2014-08-26 22:20:12,741 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/activation/activation/1.1.1-redhat-1/activation-1.1.1-redhat-1.jar
+2014-08-26 22:20:12,769 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/security/jacc/jboss-jacc-api_1.4_spec/1.0.2.Final-redhat-1/jboss-jacc-api_1.4_spec-1.0.2.Final-redhat-1.jar
+2014-08-26 22:20:12,791 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/enterprise/deploy/jboss-jad-api_1.2_spec/1.0.1.Final-redhat-1/jboss-jad-api_1.2_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,803 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/validation/validation-api/1.0.0.GA-redhat-1/validation-api-1.0.0.GA-redhat-1.jar
+2014-08-26 22:20:12,819 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.1.Final-redhat-1/jboss-transaction-api_1.1_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,840 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/security/auth/message/jboss-jaspi-api_1.0_spec/1.0.1.Final-redhat-1/jboss-jaspi-api_1.0_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,871 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/enterprise/cdi-api/1.0-SP4-redhat-1/cdi-api-1.0-SP4-redhat-1.jar
+2014-08-26 22:20:12,888 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.1.Final-redhat-1/jboss-interceptors-api_1.1_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:12,985 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/soap/jboss-saaj-api_1.3_spec/1.0.2.Final-redhat-1/jboss-saaj-api_1.3_spec-1.0.2.Final-redhat-1.jar
+2014-08-26 22:20:13,013 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/ws/jboss-jaxws-api_2.2_spec/2.0.1.Final-redhat-1/jboss-jaxws-api_2.2_spec-2.0.1.Final-redhat-1.jar
+2014-08-26 22:20:13,052 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/resource/jboss-connector-api_1.6_spec/1.0.1.Final-redhat-1/jboss-connector-api_1.6_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:13,149 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/servlet/jboss-servlet-api_3.0_spec/1.0.1.Final-redhat-1/jboss-servlet-api_3.0_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:13,299 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/registry/jboss-jaxr-api_1.0_spec/1.0.2.Final-redhat-1/jboss-jaxr-api_1.0_spec-1.0.2.Final-redhat-1.jar
+2014-08-26 22:20:13,315 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/bind/jboss-jaxb-api_2.2_spec/1.0.4.Final-redhat-1/jboss-jaxb-api_2.2_spec-1.0.4.Final-redhat-1.jar
+2014-08-26 22:20:13,328 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/xml/ws/jboss-jaxws-api_2.2_spec/2.0.1.Final-redhat-1/jboss-jaxws-api_2.2_spec-2.0.1.Final-redhat-1.jar
+2014-08-26 22:20:13,353 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/el/jboss-el-api_2.2_spec/1.0.1.Final-redhat-1/jboss-el-api_2.2_spec-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:13,683 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final-redhat-1/hibernate-jpa-2.0-api-1.0.1.Final-redhat-1.jar
+2014-08-26 22:20:13,814 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/xalan/serializer/2.7.1-redhat-1/serializer-2.7.1-redhat-1.jar
+2014-08-26 22:20:14,557 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/faces/jboss-jsf-api_2.1_spec/2.0.2.Final-redhat-1/jboss-jsf-api_2.1_spec-2.0.2.Final-redhat-1.jar
+2014-08-26 22:20:14,608 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/servlet/jstl/jboss-jstl-api_1.2_spec/1.0.3.Final-redhat-1/jboss-jstl-api_1.2_spec-1.0.3.Final-redhat-1.jar
+2014-08-26 22:20:14,823 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/mail/mail/1.4.4-redhat-1/mail-1.4.4-redhat-1.jar
+2014-08-26 22:20:16,570 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/xalan/xalan/2.7.1-redhat-1/xalan-2.7.1-redhat-1.jar
+2014-08-26 22:20:20,685 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-model:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-model/pom.xml.
+2014-08-26 22:20:20,798 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 22:20:21,228 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-08-26 22:20:21,272 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.facinnius:facinnius:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-build/pom.xml.
+2014-08-26 22:20:21,867 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-model:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-model/pom.xml.
+2014-08-26 22:20:21,982 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 22:20:22,167 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-model/src/main/java
+2014-08-26 22:20:22,167 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /facinnius-model/src/main/resources
+2014-08-26 22:20:22,167 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-model/src/test/java
+2014-08-26 22:20:22,258 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-web/src/main/java
+2014-08-26 22:20:22,259 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /facinnius-web/src/main/resources
+2014-08-26 22:20:22,259 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-web/src/test/java
+2014-08-26 22:20:22,451 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for facinnius-web
+2014-08-26 22:20:22,453 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2014-08-26 22:20:23,219 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-model:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-model/pom.xml.
+2014-08-26 22:20:23,941 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:20:23,942 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:20:23,944 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:20:23,944 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:20:24,250 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 22:21:05,178 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-model:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-model/pom.xml.
+2014-08-26 22:21:05,900 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:21:05,900 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:21:05,902 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:21:05,902 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:21:24,386 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-model:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-model/pom.xml.
+2014-08-26 22:21:25,072 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:21:25,072 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:21:25,075 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:21:25,075 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:22:08,384 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 22:22:08,472 [Worker-21] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:22:08,910 [New I/O client worker #51-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/enterprise/cdi-api/1.2/cdi-api-1.2.pom
+2014-08-26 22:22:08,915 [Worker-21] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:22:09,345 [New I/O client worker #52-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.2/cdi-api-1.2.pom
+2014-08-26 22:22:09,346 [New I/O client worker #52-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.2/cdi-api-1.2.pom
+2014-08-26 22:22:09,507 [Worker-21] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:22:09,947 [New I/O client worker #53-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/weld/weld-parent/26/weld-parent-26.pom
+2014-08-26 22:22:09,949 [Worker-21] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:22:10,242 [New I/O client worker #54-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/26/weld-parent-26.pom
+2014-08-26 22:22:10,402 [New I/O client worker #54-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/26/weld-parent-26.pom
+2014-08-26 22:22:10,608 [Worker-21] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:22:11,003 [New I/O client worker #55-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.pom
+2014-08-26 22:22:11,006 [Worker-21] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:22:11,304 [New I/O client worker #56-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.pom
+2014-08-26 22:22:11,311 [New I/O client worker #56-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.pom
+2014-08-26 22:22:11,472 [Worker-21] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:22:11,888 [New I/O client worker #57-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.pom
+2014-08-26 22:22:11,894 [Worker-21] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:22:12,189 [New I/O client worker #58-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.pom
+2014-08-26 22:22:12,197 [New I/O client worker #58-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.pom
+2014-08-26 22:22:13,322 [Worker-21] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:22:13,934 [New I/O client worker #59-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/enterprise/cdi-api/1.2/cdi-api-1.2.jar
+2014-08-26 22:22:14,073 [New I/O client worker #59-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.jar
+2014-08-26 22:22:14,081 [New I/O client worker #59-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.jar
+2014-08-26 22:22:14,085 [Worker-21] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2014-08-26 22:22:14,387 [New I/O client worker #60-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.jar
+2014-08-26 22:22:14,396 [New I/O client worker #60-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.jar
+2014-08-26 22:22:14,414 [New I/O client worker #60-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.2/cdi-api-1.2.jar
+2014-08-26 22:22:14,562 [New I/O client worker #60-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.jar
+2014-08-26 22:22:14,828 [New I/O client worker #60-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.jar
+2014-08-26 22:22:14,891 [New I/O client worker #60-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.2/cdi-api-1.2.jar
+2014-08-26 22:22:15,640 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.facinnius:facinnius:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-build/pom.xml.
+2014-08-26 22:22:15,668 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-model:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-model/pom.xml.
+2014-08-26 22:22:16,805 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:22:16,809 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:22:16,811 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:22:16,812 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:22:16,812 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of facinnius-web
+2014-08-26 22:22:16,850 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for facinnius-web
+2014-08-26 22:22:16,864 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:22:17,970 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:22:17,970 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:22:17,972 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:22:17,972 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:22:18,035 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:22:18,038 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:22:18,052 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:22:18,052 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:22:29,817 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:22:29,817 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:22:29,818 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:22:29,819 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:22:29,900 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:22:29,900 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:22:29,902 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:22:29,902 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:24:57,485 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:24:57,486 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:24:57,488 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:24:57,488 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:24:57,521 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:24:57,521 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:24:57,523 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:24:57,523 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:25:05,621 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:25:05,622 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:25:05,625 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:25:05,625 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:28:22,027 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:28:22,030 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:28:22,038 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:28:22,038 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:28:29,648 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:28:29,649 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:28:29,652 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:28:29,653 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:28:57,367 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:28:57,371 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:28:57,377 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:28:57,377 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:29:12,778 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:29:12,779 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:29:12,782 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:29:12,782 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:30:03,811 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:30:03,812 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:30:03,813 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:30:03,813 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:30:09,568 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:30:09,569 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:30:09,571 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:30:09,571 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:32:14,084 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:32:14,084 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:32:14,094 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:32:14,094 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:34:03,084 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:34:03,084 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:34:03,086 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:34:03,086 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:34:03,277 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:34:03,278 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:34:03,279 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:34:03,279 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:34:39,859 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:34:39,859 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:34:39,861 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:34:39,861 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:34:39,891 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:34:39,891 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:34:39,893 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:34:39,894 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:34:57,934 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:34:57,935 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:34:57,938 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:34:57,938 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:35:05,507 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:35:05,507 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:35:05,509 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:35:05,509 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:35:12,461 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:35:12,461 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:35:12,463 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:35:12,464 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:35:26,731 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:35:26,732 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:35:26,734 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:35:26,734 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:36:11,083 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:36:11,083 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:36:11,085 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:36:11,085 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:36:19,872 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:36:19,872 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:36:19,876 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:36:19,876 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:36:27,716 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:36:27,716 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:36:27,718 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:36:27,718 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:41:47,348 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:41:47,348 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:41:47,351 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:41:47,351 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:42:08,852 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-08-26 22:42:08,947 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 22:42:10,308 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-web/src/main/java
+2014-08-26 22:42:10,308 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /facinnius-web/src/main/resources
+2014-08-26 22:42:10,308 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-web/src/test/java
+2014-08-26 22:42:10,594 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for facinnius-web
+2014-08-26 22:42:10,596 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2014-08-26 22:42:10,825 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 22:42:12,167 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:42:12,168 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:42:12,169 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:42:12,170 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:42:40,290 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:42:40,290 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:42:40,292 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:42:40,293 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:42:58,762 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:42:58,762 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:42:58,767 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:42:58,767 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:43:29,947 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:43:29,947 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:43:29,949 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:43:29,949 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:44:12,738 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:44:12,738 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:44:12,743 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:44:12,743 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:44:19,556 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:44:19,557 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:44:19,559 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:44:19,559 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:44:38,343 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:44:38,343 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:44:38,373 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:44:38,373 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:44:42,641 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:44:42,642 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:44:42,644 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:44:42,644 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:44:46,228 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:44:46,228 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:44:46,260 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:44:46,261 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:44:48,548 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:44:48,549 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:44:48,559 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:44:48,559 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:45:05,871 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:45:05,872 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:45:05,873 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:45:05,874 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:45:10,781 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:45:10,781 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:45:10,783 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:45:10,783 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:45:15,594 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:45:15,594 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:45:15,617 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:45:15,617 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:45:21,642 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:45:21,643 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:45:21,650 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:45:21,650 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:45:33,926 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:45:33,926 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:45:33,934 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:45:33,935 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:47:07,867 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:47:07,868 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:47:07,869 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:47:07,870 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:57:39,142 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.facinnius:facinnius:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-build/pom.xml.
+2014-08-26 22:57:46,009 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.facinnius:facinnius:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-build/pom.xml.
+2014-08-26 22:57:51,912 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 22:57:54,313 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/br/com/facinnius/facinnius-model/1.0/facinnius-model-1.0.pom
+2014-08-26 22:57:55,551 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/br/com/facinnius/facinnius-model/1.0/facinnius-model-1.0.pom
+2014-08-26 22:57:55,554 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for br.com.facinnius:facinnius-model:jar:1.0 is missing, no dependency information available
+2014-08-26 22:57:57,029 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/br/com/facinnius/facinnius-model/1.0/facinnius-model-1.0.jar
+2014-08-26 22:57:57,349 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/br/com/facinnius/facinnius-model/1.0/facinnius-model-1.0.jar
+2014-08-26 22:57:59,815 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for br.com.facinnius:facinnius-model:jar:1.0 is missing, no dependency information available
+2014-08-26 22:58:00,857 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:58:00,972 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:58:01,018 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:58:01,023 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:58:01,477 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.facinnius:facinnius:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-build/pom.xml.
+2014-08-26 22:58:02,805 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2014-08-26 22:58:03,103 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2014-08-26 22:58:03,603 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2014-08-26 22:58:04,886 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-model:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-model/pom.xml.
+2014-08-26 22:58:06,501 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 22:58:08,723 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:58:08,724 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:58:08,776 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:58:08,776 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 22:58:10,341 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:58:10,375 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 22:58:10,413 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:58:10,413 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 22:58:11,635 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:58:11,635 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 22:58:11,644 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 22:58:11,645 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 23:06:45,204 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:06:45,214 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 23:06:45,224 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:06:45,224 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 23:07:00,915 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-08-26 23:07:01,313 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: br.com.facinnius:facinnius:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-build/pom.xml.
+2014-08-26 23:07:02,162 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-model:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-model/pom.xml.
+2014-08-26 23:07:02,449 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 23:07:04,792 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-model/src/main/java
+2014-08-26 23:07:04,792 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /facinnius-model/src/main/resources
+2014-08-26 23:07:04,792 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-model/src/test/java
+2014-08-26 23:07:04,949 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-web/src/main/java
+2014-08-26 23:07:04,950 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /facinnius-web/src/main/resources
+2014-08-26 23:07:04,950 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /facinnius-web/src/test/java
+2014-08-26 23:07:07,456 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-model:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-model/pom.xml.
+2014-08-26 23:07:07,903 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 23:07:08,577 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for facinnius-web
+2014-08-26 23:07:08,580 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2014-08-26 23:07:15,283 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:07:15,284 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 23:07:16,126 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:07:16,126 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 23:07:18,818 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:07:18,819 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 23:07:18,824 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:07:18,824 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 23:08:12,183 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:08:12,201 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 23:08:12,203 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:08:12,203 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 23:10:46,202 [main] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4441) ~[org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.SWT.error(SWT.java:4356) ~[org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.SWT.error(SWT.java:4327) ~[org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:476) ~[org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:413) ~[org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Control.setRedraw(Control.java:4651) ~[org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.ui.forms.widgets.Section.reflow(Section.java:125) ~[na:na]
+	at org.eclipse.ui.forms.widgets.Section.internalSetExpanded(Section.java:115) ~[na:na]
+	at org.eclipse.ui.forms.widgets.ExpandableComposite.setExpanded(ExpandableComposite.java:882) ~[na:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17$1.process(OverviewPage.java:1149) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:460) ~[org.eclipse.m2e.core.ui_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1128) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136) [org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3806) [org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3444) [org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148) [org.eclipse.e4.ui.workbench_1.1.0.v20140528-1949.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135) [org.eclipse.ui.ide.application_1.0.500.v20140514-2033.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.200.v20130910-1609.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_45]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_45]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+2014-08-26 23:10:46,270 [main] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4441) ~[org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.SWT.error(SWT.java:4356) ~[org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.SWT.error(SWT.java:4327) ~[org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:476) ~[org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:413) ~[org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Control.setRedraw(Control.java:4651) ~[org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.ui.forms.widgets.Section.reflow(Section.java:125) ~[na:na]
+	at org.eclipse.ui.forms.widgets.Section.internalSetExpanded(Section.java:115) ~[na:na]
+	at org.eclipse.ui.forms.widgets.ExpandableComposite.setExpanded(ExpandableComposite.java:882) ~[na:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17$1.process(OverviewPage.java:1149) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:460) ~[org.eclipse.m2e.core.ui_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1128) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136) [org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3806) [org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3444) [org.eclipse.swt.gtk.linux.x86_3.103.0.v20140605-2012.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148) [org.eclipse.e4.ui.workbench_1.1.0.v20140528-1949.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) [org.eclipse.ui.workbench_3.106.0.v20140530-0732.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135) [org.eclipse.ui.ide.application_1.0.500.v20140514-2033.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.200.v20130910-1609.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236) [org.eclipse.osgi_3.10.0.v20140606-1445.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_45]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_45]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+2014-08-26 23:11:28,455 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.facinnius:facinnius-web:1.0 @ /home/guilherme/workspace-fc/facinnius/facinnius-web/pom.xml.
+2014-08-26 23:11:29,404 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:11:29,404 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-26 23:11:29,406 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:11:29,406 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 23:11:29,406 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of facinnius-web
+2014-08-26 23:11:29,407 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for facinnius-web
+2014-08-26 23:11:29,416 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:16:04,729 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:16:04,743 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 23:16:04,744 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:16:04,745 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 23:16:05,446 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:16:05,447 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 23:16:05,449 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:16:05,449 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 23:16:08,934 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:16:08,935 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 23:16:08,936 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:16:08,936 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources
+2014-08-26 23:16:08,976 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:16:08,977 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 23:16:08,978 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:16:08,978 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 23:16:18,772 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:16:18,772 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 23:16:18,774 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:16:18,774 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-web/src/test/resources
+2014-08-26 23:24:09,857 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:24:09,859 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-08-26 23:24:09,861 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-26 23:24:09,861 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/guilherme/workspace-fc/facinnius/facinnius-model/src/test/resources

@@ -1,0 +1,89 @@
+package br.com.yaw.prime.mb;
+
+import static javax.faces.context.FacesContext.getCurrentInstance;
+
+import java.io.Serializable;
+import java.util.List;
+import java.util.ResourceBundle;
+
+import javax.inject.Inject;
+
+import br.com.yaw.prime.model.Mercadoria;
+import br.com.yaw.prime.service.MercadoriaService;
+
+public class MercadoriaMB implements Serializable {
+	
+	private static final long serialVersionUID = 1L;
+
+	@Inject
+	private MercadoriaService service;
+	
+	private Long idSelecionado;
+	
+	private List<Mercadoria> mercadorias;
+	
+	/**
+	 * Referência para a mercadoria utiliza na inclusão (nova) ou edição.
+	 */
+	private Mercadoria mercadoria;
+	
+	
+	public MercadoriaMB() {
+	}
+	
+	public void setIdSelecionado(Long idSelecionado) {
+		this.idSelecionado = idSelecionado;
+	}
+	
+	public Long getIdSelecionado() {
+		return idSelecionado;
+	}
+	
+	public Mercadoria getMercadoria() {
+		return mercadoria;
+	}
+	
+	public void incluir(){
+		mercadoria = new Mercadoria();
+		//log.debug("Pronto pra incluir");
+	}
+	
+	public void editar() {
+		if (idSelecionado == null) {
+			return;
+		}
+		mercadoria = service.find(idSelecionado);
+		//log.debug("Pronto pra editar");
+	}
+	
+	public List<Mercadoria> getMercadorias() {
+		if (mercadorias == null) {
+			mercadorias = service.findAll();
+		}
+		return mercadorias;
+	}
+
+	
+	public String salvar() {
+		try {
+			service.save(mercadoria);
+		} catch(Exception ex) {
+			//log.error("Erro ao salvar mercadoria.", ex);
+			return "";
+		}
+		//log.debug("Salvour mercadoria "+mercadoria.getId());
+		return "listaMercadorias";
+	}
+	
+	public String remover() {
+		try {
+			service.remove(mercadoria);
+		} catch(Exception ex) {
+			//log.error("Erro ao remover mercadoria.", ex);
+			return "";
+		}
+		//log.debug("Removeu mercadoria "+mercadoria.getId());
+		return "listaMercadorias";
+	}
+	
+}
