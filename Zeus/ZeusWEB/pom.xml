@@ -1,0 +1,63 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>ZeusWEB</artifactId>
+	<packaging>war</packaging>
+	<name>Zeus-WEB</name>
+
+	<parent>
+		<groupId>EAR</groupId>
+		<artifactId>Zeus</artifactId>
+		<version>1.0</version>
+	</parent>
+
+	<dependencies>
+	
+		<dependency>
+			<groupId>EAR</groupId>
+			<artifactId>ZeusEJB</artifactId>
+			<version>1.0</version>
+			<type>jar</type>
+			<scope>provided</scope>
+		</dependency>
+		
+		<!-- JAR API JAVAEE 6 -->
+		<dependency>
+			<groupId>javax</groupId>
+			<artifactId>javaee-web-api</artifactId>
+			<version>7.0</version>
+			<scope>provided</scope>
+		</dependency>	
+				
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>2.3.2</version>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-war-plugin</artifactId>
+				<version>2.3</version>
+				<configuration>
+				  <archive>
+					<manifest>
+					  <addClasspath>true</addClasspath>
+					</manifest>
+				  </archive>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-dependency-plugin</artifactId>
+				<version>2.1</version>
+			</plugin>
+		</plugins>
+	</build>
+</project>

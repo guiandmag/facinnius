@@ -1,0 +1,26 @@
+/**
+ * 
+ */
+package com.facinnius.model.enumtype;
+
+/**
+ * @author Guilherme Magalhães - guiandmag@gmail.com
+ *
+ */
+public enum VendaStatus {
+
+	INICIADA("Venda Iniciada"),
+	EMANDAMENTO("Venda em Andamento"),
+	ENCERRADA("Venda Encerrada");
+
+	private String desc;
+	
+	VendaStatus(String desc){
+		this.desc = desc;
+	}
+	
+	public String getDescricao(){
+		return desc;
+	}
+	
+}

@@ -1,0 +1,11 @@
+package com.facinnius.model.enumtype;
+
+/**
+ * @author Guilherme Magalhães - guiandmag@gmail.com
+ *
+ */
+public enum TipoPagamentoStatus {
+	
+	
+
+}

@@ -1,0 +1,24 @@
+package com.facinnius.model.entidade;
+
+import java.io.Serializable;
+
+import javax.persistence.*;
+import javax.xml.bind.annotation.XmlRootElement;
+
+/**
+ * Entity implementation class for Entity: FichaEntidade
+ *
+ */
+@Entity
+@Table(name = "TBL_FICHA")
+@XmlRootElement(name = "ficha")
+public class FichaEntidade implements Serializable {
+
+	
+	private static final long serialVersionUID = 1L;
+
+	public FichaEntidade() {
+		super();
+	}
+   
+}

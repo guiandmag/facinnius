@@ -1,0 +1,31 @@
+package com.facinnius.model.entidade;
+
+import javax.persistence.*;
+
+import com.facinnius.i.model.entidade.IEntity;
+
+/**
+ * @author guilherme
+ */
+@Entity
+@Table(name = "TBL_REPRESENTANTE", indexes = { @Index(columnList = "representante_nome") })
+@SequenceGenerator(name = Representante.REPRESENTANTE_SEQUENCIA, sequenceName = Representante.REPRESENTANTE_SEQUENCIA, initialValue = 1, allocationSize = 50)
+@XmlRootElement(name = "representante")
+@XmlAccessorType(XmlAccessType.FIELD)
+public class RepresentanteEntidade implements IEntity {
+	
+	private static final long serialVersionUID = 1L;
+	
+	@Transient
+	public static final String REPRESENTANTE_SEQUENCIA = "REPRESENTANTE_SEQUENCIA";
+
+	public RepresentanteEntidade() {
+		super();
+	}
+
+	@Override
+	public Long getId() {
+		return null;
+	}
+   
+}

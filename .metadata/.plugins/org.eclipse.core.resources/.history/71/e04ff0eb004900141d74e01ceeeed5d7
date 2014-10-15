@@ -1,0 +1,36 @@
+package com.facinnius.model.entidade;
+
+import javax.persistence.*;
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlRootElement;
+
+import com.facinnius.i.model.entidade.IEntity;
+
+/**
+ * Entity implementation class for Entity: EnderecoEntidade
+ *
+ */
+@Entity
+@Table(name = "TBL_ENDERECO", indexes = {@Index(columnList = "endereco_nome")})
+@SequenceGenerator(name = EnderecoEntidade.ENDERECO_SEQUENCIA, sequenceName = EnderecoEntidade.ENDERECO_SEQUENCIA, initialValue = 1, allocationSize = 50)
+@XmlRootElement(name = "endereco")
+@XmlAccessorType(XmlAccessType.FIELD)
+public class EnderecoEntidade implements IEntity {
+
+	private static final long serialVersionUID = 1L;
+	
+	@Transient
+	public static final String ENDERECO_SEQUENCIA = "ENDERECO_SEQUENCIA";
+
+	public EnderecoEntidade() {
+		super();
+	}
+
+	@Override
+	public Number getId() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+   
+}

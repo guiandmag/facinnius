@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.persistence.criteria.CriteriaQuery"/>
+<fullyQualifiedTypeName name="javax.inject.Inject"/>
+<fullyQualifiedTypeName name="com.uaihebert.model.EasyCriteria"/>
+<fullyQualifiedTypeName name="com.uaihebert.factory.EasyCriteriaFactory"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="javax.persistence.ElementCollection"/>
+<fullyQualifiedTypeName name="javax.persistence.CollectionTable"/>
+<fullyQualifiedTypeName name="com.facinnius.model.entidade.Credencial"/>
+<fullyQualifiedTypeName name="com.facinnius.model.entidade.RepresentanteEntidade"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="com.facinnius.model.entidade.TelefoneEntidade"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlElementWrapper"/>
+<fullyQualifiedTypeName name="com.facinnius.i.model.entidade.IEntity"/>
+<fullyQualifiedTypeName name="javax.persistence.Index"/>
+<fullyQualifiedTypeName name="javax.persistence.SequenceGenerator"/>
+<fullyQualifiedTypeName name="javax.websocket.ClientEndpoint"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlRootElement"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlAccessorType"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlAttribute"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlElement"/>
+<fullyQualifiedTypeName name="com.facinnius.model.entidade.EnderecoEntidade"/>
+<fullyQualifiedTypeName name="javax.validation.Valid"/>
+<fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
+<fullyQualifiedTypeName name="com.facinnius.model.entidade.FichaEntidade"/>
+<fullyQualifiedTypeName name="javax.persistence.OneToOne"/>
+<fullyQualifiedTypeName name="javax.persistence.ForeignKey"/>
+</qualifiedTypeNameHistroy>

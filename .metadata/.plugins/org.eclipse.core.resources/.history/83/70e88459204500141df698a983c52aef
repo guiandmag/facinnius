@@ -1,0 +1,13 @@
+package br.com.yaw.prime.model;
+
+import java.io.Serializable;
+
+/**
+ * 
+ * @author guilherme.magalhaes
+ */
+public interface AbstractEntity extends Serializable {
+
+	public Number getId();
+	
+}

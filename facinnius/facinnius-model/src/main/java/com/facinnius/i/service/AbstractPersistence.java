@@ -1,0 +1,42 @@
+package com.facinnius.i.service;
+
+import java.util.List;
+
+import javax.persistence.EntityManager;
+
+import com.facinnius.i.model.entidade.IEntity;
+import com.uaihebert.factory.EasyCriteriaFactory;
+import com.uaihebert.model.EasyCriteria;
+
+public abstract class AbstractPersistence<T extends IEntity, PK extends Number> {
+
+	private Class<T> entityClass;
+
+    public AbstractPersistence(Class<T> entityClass) {
+    	this.entityClass = entityClass;
+    }
+
+    protected abstract EntityManager getEntityManager();
+
+    public T save(T e) {
+		if (e.getId() != null)
+			return getEntityManager().merge(e);
+		else {
+			getEntityManager().persist(e);
+			return e;
+		}
+	}
+
+    public void remove(T entity) {
+        getEntityManager().remove(getEntityManager().merge(entity));
+    }
+
+    public T find(PK id) {
+        return getEntityManager().getReference(entityClass, id);
+    }
+
+	public List<T> findAll() {
+        EasyCriteria<T> easyCriteria = EasyCriteriaFactory.createQueryCriteria(getEntityManager(), entityClass);
+        return easyCriteria.getResultList();
+    }
+}

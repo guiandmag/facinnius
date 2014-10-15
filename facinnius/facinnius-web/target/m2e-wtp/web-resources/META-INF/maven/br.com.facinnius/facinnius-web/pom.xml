@@ -41,19 +41,6 @@
         </dependency>
     </dependencies>
 
-    <pluginRepositories>
-        <pluginRepository>
-            <id>eap</id>
-            <url>http://maven.repository.redhat.com/techpreview/all</url>
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-            <snapshots>
-                <enabled>true</enabled>
-            </snapshots>
-        </pluginRepository>
-    </pluginRepositories>
-
     <profiles>
         <profile>
             <!-- Utilizado no build do Openshift -->
@@ -73,9 +60,4 @@
             </build>
         </profile>
     </profiles>
-
-    <build>
-        <finalName>facinnius</finalName>
-    </build>
-
 </project>

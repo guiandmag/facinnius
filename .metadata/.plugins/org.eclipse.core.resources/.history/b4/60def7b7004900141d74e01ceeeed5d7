@@ -1,0 +1,21 @@
+package com.facinnius.model.entidade;
+
+import java.io.Serializable;
+import javax.persistence.*;
+
+/**
+ * Entity implementation class for Entity: EnderecoEntidade
+ *
+ */
+@Entity
+
+public class EnderecoEntidade implements Serializable {
+
+	
+	private static final long serialVersionUID = 1L;
+
+	public EnderecoEntidade() {
+		super();
+	}
+   
+}

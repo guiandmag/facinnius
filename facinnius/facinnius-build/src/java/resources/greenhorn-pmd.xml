@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruleset name="Custom ruleset" xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 http://pmd.sourceforge.net/ruleset_2_0_0.xsd">
+
+	<description>Regras para uma boa manutencao do codigo Java</description>
+
+	<rule ref="rulesets/logging-java.xml/SystemPrintln">
+		<priority>3</priority>
+	</rule>
+	<rule ref="rulesets/naming.xml/VariableNamingConventions">
+		<priority>3</priority>
+	</rule>
+	<rule ref="rulesets/design.xml/UseSingleton">
+		<priority>3</priority>
+	</rule>
+	<rule ref="rulesets/controversial.xml/UseConcurrentHashMap">
+		<priority>3</priority>
+	</rule>
+	<rule ref="rulesets/controversial.xml/AtLeastOneConstructor">
+		<priority>3</priority>
+	</rule>
+	<rule ref="rulesets/basic.xml/BooleanInstantiation">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/basic.xml/CollapsibleIfStatements">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/basic.xml/DoubleCheckedLocking">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/basic.xml/EmptyFinallyBlock">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/basic.xml/EmptyIfStmt">
+		<priority>1</priority>
+	</rule>
+	<rule ref="rulesets/basic.xml/EmptyStatementNotInLoop">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/basic.xml/EmptyStaticInitializer">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/basic.xml/EmptySwitchStatements">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/basic.xml/EmptySynchronizedBlock">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/basic.xml/EmptyTryBlock">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/basic.xml/EmptyWhileStmt">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/basic.xml/JumbledIncrementer">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/codesize.xml/CyclomaticComplexity">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/codesize.xml/ExcessiveClassLength">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/codesize.xml/ExcessiveMethodLength">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/codesize.xml/ExcessiveParameterList">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/codesize.xml/ExcessivePublicCount">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/codesize.xml/TooManyFields">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/imports.xml/DuplicateImports">
+		<priority>1</priority>
+	</rule>
+	<rule ref="rulesets/imports.xml/DontImportJavaLang">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/imports.xml/UnusedImports">
+		<priority>1</priority>
+	</rule>
+	<rule ref="rulesets/imports.xml/ImportFromSamePackage">
+		<priority>5</priority>
+	</rule>
+	<rule ref="rulesets/strings.xml/StringToString">
+		<priority>1</priority>
+	</rule>
+	<rule ref="rulesets/strings.xml/StringInstantiation">
+		<priority>5</priority>
+	</rule>
+</ruleset>

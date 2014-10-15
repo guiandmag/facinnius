@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.facinnius.model.enumtype;
+
+/**
+ * @author guilherme
+ *
+ */
+public enum TipoPagamentoStatus {
+
+}

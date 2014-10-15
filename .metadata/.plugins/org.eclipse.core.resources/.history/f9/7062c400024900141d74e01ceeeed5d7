@@ -1,0 +1,35 @@
+package com.facinnius.model.entidade;
+
+import java.io.Serializable;
+
+import javax.persistence.*;
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlRootElement;
+
+/**
+ * Entity implementation class for Entity: FichaEntidade
+ *
+ */
+@Entity
+@Table(name = "TBL_FICHA", indexes = { @Index(columnList = "ficha_numero_ficha") })
+@XmlRootElement(name = "ficha")
+@XmlAccessorType(XmlAccessType.FIELD)
+public class FichaEntidade implements Serializable {
+
+	private static final long serialVersionUID = 1L;
+	
+	@Transient
+	public static final String FICHA_SEQUENCIA = "FICHA_SEQUENCIA";
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = FICHA_SEQUENCIA)
+	@Column(name = "ficha_id", updatable = false, unique = true, nullable = false)
+	@XmlAttribute
+	private Long id;
+
+	public FichaEntidade() {
+		super();
+	}
+   
+}

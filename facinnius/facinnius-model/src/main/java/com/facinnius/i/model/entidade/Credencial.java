@@ -1,0 +1,44 @@
+package com.facinnius.i.model.entidade;
+
+import java.io.Serializable;
+
+import javax.persistence.*;
+import javax.xml.bind.annotation.XmlAttribute;
+
+/**
+ * @author guilherme.magalhaes
+ */
+@Entity
+@Inheritance(strategy=InheritanceType.TABLE_PER_CLASS)
+public abstract class Credencial implements Serializable {
+	
+	private static final long serialVersionUID = 1L;
+	
+	@Column(name="credencial_usuario", nullable = false, length = 255)
+	@XmlAttribute
+	private String usuario;
+	
+	@Column(name="credencial_senha", nullable = false, length = 50)
+	@XmlAttribute
+	private String senha;
+
+	public Credencial() {
+		super();
+	}
+
+	public String getUsuario() {
+		return usuario;
+	}
+
+	public void setUsuario(String usuario) {
+		this.usuario = usuario;
+	}
+
+	public String getSenha() {
+		return senha;
+	}
+
+	public void setSenha(String senha) {
+		this.senha = senha;
+	}
+}

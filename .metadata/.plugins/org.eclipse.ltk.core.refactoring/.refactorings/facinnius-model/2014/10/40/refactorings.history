@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Credencial.java&apos; to &apos;facinnius-model/src/main/java/com.facinnius.i.model.entidade&apos;&#x0A;- Original project: &apos;facinnius-model&apos;&#x0A;- Destination element: &apos;facinnius-model/src/main/java/com.facinnius.i.model.entidade&apos;&#x0A;- Original element: &apos;com.facinnius.model.entidade.Credencial.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java&lt;com.facinnius.i.model.entidade" element1="/src\/main\/java&lt;com.facinnius.model.entidade{Credencial.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1412123196015" units="1" version="1.0"/>
+</session>
